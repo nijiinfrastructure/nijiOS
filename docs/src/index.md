@@ -18,5 +18,3 @@ A powerful, modern Julia client for the Twitter API v2 with AI integration.
 using Pkg
 Pkg.add("nijiOS")
 ```
-
-For more information, see the [Getting Started](@ref) guide. 
