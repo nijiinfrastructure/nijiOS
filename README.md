@@ -2,9 +2,6 @@
 
 A powerful, modern Julia client for the Twitter API v2 with AI integration.
 
-[![Build Status](https://github.com/yourusername/nijiOS/workflows/CI/badge.svg)](https://github.com/yourusername/nijiOS/actions)
-[![Coverage](https://codecov.io/gh/yourusername/nijiOS/branch/main/graph/badge.svg)](https://codecov.io/gh/yourusername/nijiOS)
-[![Documentation](https://img.shields.io/badge/docs-stable-blue.svg)](https://yourusername.github.io/nijiOS/stable)
 
 ## ✨ Features
 
@@ -120,9 +117,7 @@ nijiOS
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📖 Documentation
 
-Detailed documentation is available at [https://yourusername.github.io/nijiOS](https://yourusername.github.io/nijiOS)
 
 ## 🧪 Testing
 
@@ -144,8 +139,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- GitHub: [@nijiinfrastructure](https://github.com/nijiinfrastructure)
+- Twitter: [@nijitech](https://x.com/nijitech)
 
 ---
 
