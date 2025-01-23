@@ -1,6 +1,6 @@
 name = "nijiOS"
 uuid = "d8827e42-5c88-4c88-b45e-7c0e4b2c9d0b"
-authors = ["Your Name <your.email@example.com>"]
+authors = ["AdamPierro <git@nijiai.fun>"]
 version = "0.1.0"
 
 [deps]
