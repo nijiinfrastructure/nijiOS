@@ -147,4 +147,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">Made with ❤️ in Julia</p>
-![bannerOS](https://github.com/user-attachments/assets/00003a17-ea18-4cdf-ab81-a3b4cc64ad5c)
